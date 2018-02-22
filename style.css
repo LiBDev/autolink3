@@ -1,0 +1,26 @@
+div#autolink3>form>table
+{
+        border-collapse:collapse;
+        width:100%
+}
+
+div#autolink3 td
+{
+        text-align: center;
+        padding : 2px;
+        border:1px solid __border__;
+}
+
+div#autolink3 th
+{
+       text-align: center;
+       border-top: 1px solid __border__;
+       border-left:1px solid __border__;
+       border-right:1px solid __border__;
+       background-color: #A9D0F5;
+}
+
+div#autolink3>form>table>tbody>tr>td>select
+{
+       width:370px;
+}
